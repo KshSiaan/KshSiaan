@@ -12,9 +12,6 @@ Do u really feel the nature? sure??
 * 🤝  I'm open to collaborating on anything interesting
 * ⚡  Nihilism is the villain, you are the hero
 
-<a href="https://www.github.com/KshSiaan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/KshSiaan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
