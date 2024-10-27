@@ -13,7 +13,6 @@ Do u really feel the nature? sure??
 * ⚡  Nihilism is the villain, you are the hero
 
 ### Skills
-Sure, here’s how they can be sorted into categories for a cleaner look:
 
 ---
 
