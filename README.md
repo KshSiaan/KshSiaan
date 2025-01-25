@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shahibul Hasan
 ======================================================================================================================================
+Im a passionate full-stack developer with a solid foundation in web development and a keen focus on creating user-friendly, interactive applications. Fast learner with a passion for innovation and growth, eager to contribute meaningfully in a collaborative tech environment.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geo&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Web+developer%2C+Web+designer%2C+Music+artist)](https://git.io/typing-svg)
 -----------------------------------------
