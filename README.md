@@ -57,9 +57,10 @@ Im a passionate full-stack developer with a solid foundation in web development 
 
 
 
-### Badges
+### My Idol
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <img src="https://github.com/KshSiaan/l-gif/blob/main/death%20note%20l%20GIF.gif" alt="lawliet" />
+</div>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KshSiaan&theme=dark&hide_border=true&border_radius=5&mode=weekly" alt="GitHub Streak" /></a>
 
