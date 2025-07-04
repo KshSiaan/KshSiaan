@@ -5,26 +5,57 @@ Im a passionate full-stack developer with a solid foundation in web development 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geo&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Web+developer%2C+Web+designer%2C+Music+artist)](https://git.io/typing-svg)
 -----------------------------------------
 
-<table style="width: 100%; table-layout: fixed;">
+<p style="margin: 0; color: #ffffff; font-family: sans-serif;">
+🌍  I'm based in Bangladesh<br />
+✉️  You can contact me at <a href="mailto:kshsiaan@gmail.com" style="color: #0891b2;">kshsiaan@gmail.com</a><br />
+🧠  I'm learning Problem Solving<br />
+🤝  I'm open to collaborating on anything interesting<br />
+⚡  Nihilism is the villain, you are the hero
+</p>
+
+
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <!-- Left Text Column -->
-    <td style="width: 60%; vertical-align: top;">
-      <p>
-        🌍  I'm based in Bangladesh<br />
-        ✉️  You can contact me at <a href="mailto:kshsiaan@gmail.com">kshsiaan@gmail.com</a><br />
-        🧠  I'm learning Problem Solving<br />
-        🤝  I'm open to collaborating on anything interesting<br />
-        ⚡  Nihilism is the villain, you are the hero
-      </p>
+    <!-- Left: Contributions -->
+    <td style="width: 50%; padding: 0; vertical-align: top;">
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshSiaan&theme=ayu_mirage" 
+  alt="KshSiaan GitHub Profile Summary" 
+  style="width: 100%; max-width: 100%; height: auto; display: block;" 
+/>
     </td>
-    <!-- Right GitHub Stats Column -->
-    <td style="width: 40%; text-align: right; vertical-align: top;">
-      <a href="http://www.github.com/KshSiaan">
-        <img src="https://github-readme-stats.vercel.app/api?username=KshSiaan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KshSiaan's GitHub stats" />
-      </a>
+    <!-- Right: Top Languages -->
+    <td style="width: 50%; padding: 0; vertical-align: top;">
+      <img
+        src="https://github-stats-card-generator.vercel.app/api/svg?username=KshSiaan&type=languages&theme=dark&hide_border=true"
+        alt="Top Languages"
+        style="width: 100%; display: block;"
+      />
     </td>
   </tr>
 </table>
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+  <tr>
+    <!-- Left: Contributions -->
+    <td style="width: 40%; padding: 0; vertical-align: top;">
+  <img 
+    src="https://github-stats-card-generator.vercel.app/api/svg?username=KshSiaan&theme=dark&hide_border=true" 
+    alt="KshSiaan's GitHub Stats" 
+    style="width: 100%; max-width: 100%; height: auto; display: block;" 
+  />
+    </td>
+    <!-- Right: Top Languages -->
+    <td style="width: 60%; padding: 0; vertical-align: top;">
+      <img
+        src="https://github-stats-card-generator.vercel.app/api/svg?username=KshSiaan&type=languages&theme=dark&hide_border=true"
+        alt="Top Languages"
+        style="width: 100%; display: block;"
+      />
+    </td>
+  </tr>
+</table>
+
+
 
 ### Favourite Tech
 
