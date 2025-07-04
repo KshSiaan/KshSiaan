@@ -27,7 +27,7 @@ Im a passionate full-stack developer with a solid foundation in web development 
     <!-- Right: Top Languages -->
     <td style="width: 50%; padding: 0; vertical-align: top;">
       <img
-        src="https://github-stats-card-generator.vercel.app/api/svg?username=KshSiaan&type=languages&theme=dark&hide_border=true"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kshSiaan&theme=ayu_mirage"
         alt="Top Languages"
         style="width: 100%; display: block;"
       />
