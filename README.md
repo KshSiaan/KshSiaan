@@ -8,9 +8,9 @@ Im a passionate full-stack developer with a solid foundation in web development 
 <p style="margin: 0; color: #ffffff; font-family: sans-serif;">
 🌍  I'm based in Bangladesh<br />
 ✉️  You can contact me at <a href="mailto:kshsiaan@gmail.com" style="color: #0891b2;">kshsiaan@gmail.com</a><br />
-🧠  I'm learning Problem Solving<br />
+🧠  I'm learning AI development<br />
 🤝  I'm open to collaborating on anything interesting<br />
-⚡  Nihilism is the villain, you are the hero
+⚡  “To believe is to win”
 </p>
 
 
