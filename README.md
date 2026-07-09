@@ -1,16 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shahibul Hasan
-======================================================================================================================================
-Im a passionate full-stack developer with a solid foundation in web development and a keen focus on creating user-friendly, interactive applications. Fast learner with a passion for innovation and growth, eager to contribute meaningfully in a collaborative tech environment.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff88,100:0d0d0d&height=100&descAlignY=58&descSize=18&descColor=aaaaaa&animation=twinkling" />
+<h1>RAVEN</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geo&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Web+developer%2C+Web+designer%2C+Music+artist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geo&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Full+Stack+engineer%2CAI+engineer%2CUI+UX+Designer)](https://git.io/typing-svg)
 -----------------------------------------
 
 <p style="margin: 0; color: #ffffff; font-family: sans-serif;">
 🌍  I'm based in Bangladesh<br />
 ✉️  You can contact me at <a href="mailto:kshsiaan@gmail.com" style="color: #0891b2;">kshsiaan@gmail.com</a><br />
-🧠  I'm learning AI development<br />
 🤝  I'm open to collaborating on anything interesting<br />
-⚡  “To believe is to win”
+⚡  “What's normal for the spider is chaos to the fly”
 </p>
 
 
@@ -94,4 +92,4 @@ Im a passionate full-stack developer with a solid foundation in web development 
   <img src="https://github.com/KshSiaan/l-gif/blob/main/death%20note%20l%20GIF.gif" alt="lawliet" />
 </div>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff88,100:0d0d0d&height=120&section=footer&animation=twinkling" />
