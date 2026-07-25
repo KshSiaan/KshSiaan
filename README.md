@@ -1,4 +1,4 @@
-<h1>RAVEN</h1>
+# aka - **RAVEN**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geo&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Full+Stack+engineer%2CAI+engineer%2CUI+UX+Designer)](https://git.io/typing-svg)
 -----------------------------------------
@@ -53,18 +53,6 @@
 </table>
 
 
-
-### Favourite Tech
-
----
-> Tools, languages, and other things that I like to work with.
-> 
-<table> <tr> <td align="center" width="96"> 
-  <a href="#tech"> <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /> </a>
-  <br>
-  TypeScript </td> <td align="center" width="96"> <a href="#tech"> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /> </a> <br>React </td> <td align="center" width="96"> <a href="#tech"> <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /> </a> <br>Next.js </td> <td align="center" width="96"> <a href="#tech"> <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /> </a> <br>Figma </td> <td align="center" width="96"> <a href="#tech"> <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" /> </a> <br>Express.js </td> <td align="center" width="96"> <a href="#tech"> <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /> </a> <br>MongoDB </td> <td align="center" width="96"> <a href="#tech"> <img src="https://go-skill-icons.vercel.app/api/icons?i=miro" width="48" height="48" alt="Miro" /> </a> <br>Miro </td> <td align="center" width="96"> <a href="#tech"> <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /> </a> <br>Tailwind </td> </tr> </table>
-
----
 
 ## Connect with Me  
 
