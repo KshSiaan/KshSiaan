@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff88,100:0d0d0d&height=100&descAlignY=58&descSize=18&descColor=aaaaaa&animation=twinkling" />
 <h1>RAVEN</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geo&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Full+Stack+engineer%2CAI+engineer%2CUI+UX+Designer)](https://git.io/typing-svg)
@@ -91,5 +90,3 @@
 <div align="center">
   <img src="https://github.com/KshSiaan/l-gif/blob/main/death%20note%20l%20GIF.gif" alt="lawliet" />
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff88,100:0d0d0d&height=120&section=footer&animation=twinkling" />
