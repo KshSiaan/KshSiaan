@@ -1,4 +1,4 @@
-# aka - **RAVEN**
+# AKA : **RAVEN**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geo&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Full+Stack+engineer%2CAI+engineer%2CUI+UX+Designer)](https://git.io/typing-svg)
 -----------------------------------------
