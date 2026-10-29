@@ -7,6 +7,7 @@
 🌍  I'm based in Bangladesh<br />
 ✉️  You can contact me at <a href="mailto:kshsiaan@gmail.com" style="color: #0891b2;">kshsiaan@gmail.com</a><br />
 🤝  I'm open to collaborating on anything interesting<br />
+✏️  I'm Learning Rust<br />
 ⚡  “What's normal for the spider is chaos to the fly”
 </p>
 
